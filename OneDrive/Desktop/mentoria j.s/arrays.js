@@ -36,3 +36,5 @@ for (let i = 0; i < numeros1.length; i++){
 console.log("la suma es : ", suma);
 
 // un array de números mezclados. Tu tarea es recorrer ese array usando un for y, si el número es par, agrégalo a un nuevo array llamado pares usando el método .push()"
+
+let comida = ["arroz", "carne", "pan"]; 
